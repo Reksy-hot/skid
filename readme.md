@@ -30,3 +30,5 @@ You might want to take a look at their sources & licenses too. Also please conta
 <li>termcolor; Copyright (c) 2013 Ihor Kalnytskyi; BSD License</li>
 <li>OpenSSL; Copyright (c) 1998-2021 The OpenSSL Project & Copyright (c) 1995-1998 Eric A. Young, Tim J. Hudson; Apache License</li>
 </ul>
+
+You are free to use this, as long as I am credited, changes are listed and a link to the repo and the license is given.
