@@ -12,7 +12,8 @@
 <li>StormFN: https://github.com/StormFNDev/StormFN-Backend </li>
 </ul>
 
-(Most of the code in this Project is heavily inspired by the above listed Projects, but still self written.)
+(Most of the code in this Project is heavily inspired by the above listed Projects, but still self written.
+You might want to take a look at their sources & licenses too. Also please contact me on discord (Pankiefield#2799), if you think that I should add a copyright notice somewhere.)
 
 ### Libraries used:
 <ul>
